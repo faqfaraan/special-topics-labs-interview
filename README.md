@@ -32,12 +32,16 @@ Q2: What is the answer?
 Hello!  In the rush that is the start of the term, I really haven't had a chance to chat with many of you.  So would you do me the favor of helping me get to know a bit about you by answering the following?  Please avoid one word answers... I want to learn about you!
 
 Q1: So you're finishing up your time in this CSCC program.  Why did you decide to embark on this journey?
+*_Jeremy_: I originally started my career at Nationwide as a requirements analyst and when I was hired on as an associate, I was hired as a developer. I enrolled in this program as a means to bridge any knowledge gap I held in regards to my new position.
 
 Q2: I _love_ to travel.  Tell me a bit about your favorite travel destination so far.  What's on your travel bucket list?
+*_Jeremy_: I like to travel as well with friends and family. Out of all the places I have been to so far, I liked Bergen, Norway the most due to the amazing scenes of nature. Next, I plan on going to Jamaica in the spring of 2020.
 
 Q3: Name your favorite member of [The Beatles](https://en.wikipedia.org/wiki/The_Beatles), and your favorite Beatles song.  You do know at least one Beatles song, right?  If you are a Beatles fan, feel free to give me your top 5 or so.
+*_Jeremy_: I actaully am not very familiar with The Beatles and am more of a hard rock/metal fan. I think the only song title I can think of off the top of my head would be The Yellow Submarine.
 
-Q4: Do you have any pets? Species/Name/Details please. [Murray](images/Murray.jpeg?raw) wants to know... (he's not as smart as that picture makes him seem). 
+Q4: Do you have any pets? Species/Name/Details please. [Murray](images/Murray.jpeg?raw) wants to know... (he's not as smart as that picture makes him seem).
+Yes, 2 turtles named George & Leviathan, 1 dog (great pyrenees) named Nashoba, 1 cat named Connie, 1 human baby named Ilyana, 1 rabbit named Sally, and 2 birds names Ra & Thoth.
 
 
 ## Submitting Your Work
