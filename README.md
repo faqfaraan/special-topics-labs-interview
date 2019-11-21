@@ -35,7 +35,7 @@ Q1: So you're finishing up your time in this CSCC program.  Why did you decide t
 *_Jeremy_: I originally started my career at Nationwide as a requirements analyst and when I was hired on as an associate, I was hired as a developer. I enrolled in this program as a means to bridge any knowledge gap I held in regards to my new position.
 
 Q2: I _love_ to travel.  Tell me a bit about your favorite travel destination so far.  What's on your travel bucket list?
-*_Jeremy_: I like to travel as well with friends and family. Out of all the places I have been to so far, I liked Bergen, Norway the most due to the amazing scenes of nature. Next, I plan on going to Jamaica in the spring of 2020.
+*_Jeremy_: I like to travel as well with friends and family. Out of all the places I have been to so far, I liked Bergen, Norway the most due to the amazing scenes of nature. Next, I plan on going to Jamaica in the spring of 2020. Bergen is a city on the west side of Norway and it's pretty much on the coast. It's a very mountainous city with a lot of random waterfalls around and in the cities. There are also many fjords (like rivers) around the city that you can take boat rides in.
 
 Q3: Name your favorite member of [The Beatles](https://en.wikipedia.org/wiki/The_Beatles), and your favorite Beatles song.  You do know at least one Beatles song, right?  If you are a Beatles fan, feel free to give me your top 5 or so.
 *_Jeremy_: I actaully am not very familiar with The Beatles and am more of a hard rock/metal fan. I think the only song title I can think of off the top of my head would be The Yellow Submarine.
